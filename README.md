@@ -1,0 +1,2 @@
+# algorism
+Desenvolvimento de algorítimos.
